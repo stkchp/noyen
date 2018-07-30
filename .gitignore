@@ -1,0 +1,15 @@
+# visual studio related file
+.vs
+*.user
+*.aps
+
+# output directory
+/Release
+/Debug
+/x64/Release
+/x64/Debug
+/*/Release
+/*/Debug
+/*/x64/Release
+/*/x64/Debug
+
