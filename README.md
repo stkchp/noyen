@@ -3,12 +3,12 @@
 ## 詳細
 
 Remote Desktop for Macにて、日本語キーボードの円(¥)キーを押した際、
-ASCIIのバックスラッシュにあたる`0x5C`ではなく、Unicodeの0xC2A5が
+ASCIIのバックスラッシュにあたる`0x5C`ではなく、Unicodeの`0xC2A5`が
 入力されてしまうのをwindows側で回避するプログラム。常駐型。
 
 ## ダウンロード
 
-[Releases](releases)からダウンロードしてください。
+[Releases](https://github.com/stkchp/noyen/releases)からダウンロードしてください。
 
 
 ## 使い方
